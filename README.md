@@ -1,3 +1,5 @@
+This is a containarized weather web app (a basic one), you can type a city and it will throw weather information about the city or town.
+
 to run the docker image:
 
 1: pull the docker image from Dockerhub:
